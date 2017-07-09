@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<a:addressBook xmlns:a="http://aquaowlet.com/">
+<a:addressBook>
+	<a:entry list="personal">
+		<a:name>Ms Smith</a:name>
+		<a:address>1 Central Rd, Sydney</a:address>
+		<a:phone>555 5555</a:phone>
+	</a:entry>
+	<a:entry list="business">
+		<a:name>Mr Suit</a:name>
+		<a:address>1 George St, Sydney</a:address>
+		<a:phone>555 6666</a:phone>
+	</a:entry>
+</a:addressBook>
